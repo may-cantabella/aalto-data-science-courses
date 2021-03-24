@@ -1,2 +1,5 @@
-# aalto-data-science-courses
-Aalto courses and assignments
+# Aalto University - Master's Degree
+
+Courses and Assignments
+- Data Science for Business I
+- Data Science for Business II
