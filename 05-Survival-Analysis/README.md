@@ -1,4 +1,4 @@
-Data is from https://github.com/beoutbreakprepared/nCoV2019 
+Data from: https://github.com/beoutbreakprepared/nCoV2019 
 
 REFERENCE
 
